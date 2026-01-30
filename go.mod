@@ -9,8 +9,10 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.7
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.95.1
 	github.com/elastic/go-elasticsearch/v8 v8.19.1
+	github.com/golang-jwt/jwt/v5 v5.0.0
 	github.com/google/uuid v1.6.0
 	github.com/jackc/pgx/v5 v5.5.3
+	github.com/labstack/echo-jwt/v4 v4.2.0
 	github.com/labstack/echo/v4 v4.13.4
 	github.com/spf13/viper v1.18.2
 	github.com/stretchr/testify v1.11.1
